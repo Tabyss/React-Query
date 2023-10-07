@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Shabbah",
+      "caption": "haloo ini percobaan query fetch"
+    },
+    {
+      "id": 2,
+      "name": "Athabiyyu",
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 3,
+      "name": "Toby",
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 4,
+      "name": "asdasd",
+      "caption": "asdasd"
+    },
+    {
+      "id": 5,
+      "name": "asdasd",
+      "caption": "asdasd"
+    },
+    {
+      "id": 6,
+      "name": "asdasd",
+      "caption": "asdada"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "POSTS": [
+    {
+      "id": 1,
+      "name": "shabbah",
+      "caption": "haloo ini percobaan query fetch"
+    },
+    {
+      "id": 2,
+      "name": "Athabiyyu",
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 3,
+      "name": "Toby",
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    }
+  ]
+}
